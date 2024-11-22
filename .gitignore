@@ -26,7 +26,7 @@ venv/
 *.log
 
 # Файлы данных
-data.json
+#data.json
 
 # Кэш или временные файлы
 *.tmp
